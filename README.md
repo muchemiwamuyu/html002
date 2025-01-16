@@ -14,7 +14,12 @@
 ![html screenshot](img2.png)
 ![html screenshot](img3.png)
 ## License
-[MIT]
+[MIT link](https://www.example.com)
+## Contact
+[Github link](https://www.github.com)
+
+[Email](https://gmail.com)
+
 
 
 
